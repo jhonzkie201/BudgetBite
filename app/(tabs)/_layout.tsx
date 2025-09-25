@@ -46,7 +46,7 @@ export default function TabLayout() {
           shadowRadius: 10,
           borderBottomWidth: 1,
           borderBottomColor: themeColors.border,
-          height: 60,
+          height: 100,
           paddingTop: 8,
         },
         tabBarLabelStyle: {
